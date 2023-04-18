@@ -5,7 +5,7 @@ import org.junit.Test;
 
 import static junit.framework.Assert.assertTrue;
 
-class AppTest {
+public class AppTest {
 
     @Test
     public void shouldAnswerWithTrue()
